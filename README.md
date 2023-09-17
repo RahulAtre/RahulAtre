@@ -19,7 +19,7 @@ Presently, I am interested in the field of machine learning (especially NLP and 
 
 Please do not hesitate to reach out to me for support, collaboration or work opportunities. I'm always on the lookout to work on meaningful challenges, apply learnings in the real-world, and build employer connections. Hope you have a good day! 😊
 
-Feel free to reach out to me on LinkedIn:  <a href="https://www.linkedin.com/in/rahul-atre-372a54218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-atre" height="30" width="40" /></a>
+Feel free to reach out to me on LinkedIn:  <a href="www.linkedin.com/in/rahul-atre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-atre" height="30" width="40" /></a>
 
 ### Technologies & Frameworks
 
